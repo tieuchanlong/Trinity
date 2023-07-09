@@ -21,7 +21,7 @@ Known issues:
 1. Clone this repo: `git clone https://github.com/tieuchanlong/TrinityEngine` into some folder like TrinityDemo (name doesn't matter)
 2. Clone this repo: `git clone https://github.com/tieuchanlong/Trinity` into the same folder as TrinityDemo
 3. Navigate to folder `Trinity\Trinity\assets` and run BuildPC.bat file
-4. Open project Trinity.sln in Trinity folder with Visual Studio 2019 and set it to configuration Debug-x64.
+4. Open project Trinity.sln in `Trinity` folder with Visual Studio 2019 and set it to configuration Debug-x64.
 5. Set Trinity as start up project and starts debugging. Any error can be skipped using F5, future patches will fix those errors.
 
 ## Video Demo
