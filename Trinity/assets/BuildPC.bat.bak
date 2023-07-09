@@ -1,4 +1,0 @@
-call FontBuilder.bat
-call GameObjectBuilder.bat
-call GUIBuilder.bat
-call LevelBuilder.bat

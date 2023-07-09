@@ -1,3 +1,0 @@
-xcopy /s "..\font\*.*" "..\bin\resources\fonts\"
-
-exit
