@@ -1,3 +1,4 @@
 .vscode*
 /Trinity/bin/
 *.bak
+/.vs
