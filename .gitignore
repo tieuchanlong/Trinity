@@ -1,0 +1,4 @@
+.vscode*
+*.bat
+/Trinity/bin/
+*.bak
