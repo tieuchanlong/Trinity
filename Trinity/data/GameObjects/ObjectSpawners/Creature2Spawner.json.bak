@@ -2,5 +2,5 @@
 {"ObjectClassName":"GameObjectSpawner"},
 {"NumComponents":0},
 {"Quantity":5, "NumObjectSource":1, "MinX":-4, "MaxX": 4, "MinY":1, "MaxY":1, "MinZ":-4, "MaxZ":4},
-{"ObjectSource":"D:\\Documents\\DirectX\\DirectX11\\Direct3DGameEngineBase\\Trinity\\Trinity\\bin\\common\\GameObjects\\Creatures\\Creature1.json"}
+{"ObjectSource":"D:\\Documents\\DirectX\\DirectX11\\Direct3DGameEngineBase\\Trinity\\Trinity\\bin\\common\\GameObjects\\Creatures\\Creature2.json"}
 ]
