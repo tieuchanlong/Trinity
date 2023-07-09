@@ -1,0 +1,7 @@
+[{"ObjectClassName":"TransitionMenu"},
+{"NumComponents":0},
+{"NumUIs":3},
+{"UIType":0, "Name":"Background","X":-2.5, "Y":0.0, "Z":-10, "SizeX":20.0, "SizeY":9.0, "ColorR":0.0, "ColorG":0.0, "ColorB":0.0},
+{"UIType":2, "Name":"LoadingText","X":0.0, "Y":-2.0, "Z":-10, "Text":"LOADING"},
+{"UIType":2, "Name":"ContinueText","X":0.0, "Y":-2.0, "Z":-10, "Text":"PRESS ENTER TO CONTINUE"}
+]

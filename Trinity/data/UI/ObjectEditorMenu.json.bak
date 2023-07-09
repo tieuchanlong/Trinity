@@ -1,0 +1,9 @@
+[{"ObjectClassName":"ObjectEditorMenu"},
+{"NumComponents":0},
+{"NumUIs":5},
+{"UIType":3, "Name":"CreatureSelector", "X":-6.0, "Y":3.0, "Z":-10, "SizeX":2.0, "SizeY":1.0, "TextX":0.0, "TextY":0.0, "TextZ":0.0, "ColorR":0.0, "ColorG":0.5, "ColorB":0.0},
+{"UIType":1, "Name":"SaveDataButton","X":-6.0, "Y":2.0, "Z":-10, "SizeX":1.7, "SizeY":0.5, "ColorR":0.684, "ColorG":0.616, "ColorB":0.008,"HighlightColorR":0.884, "HighlightColorG":0.816, "HighlightColorB":0.108},
+{"UIType":2, "Name":"SaveDataButtonText","X":-6.0, "Y":2.0, "Z":-10, "Text":"Save Data"},
+{"UIType":1, "Name":"CreateCreatureButton","X":-6.0, "Y":1.0, "Z":-10, "SizeX":2.0, "SizeY":0.5, "ColorR":0.9, "ColorG":0.21, "ColorB":0.008,"HighlightColorR":0.884, "HighlightColorG":0.816, "HighlightColorB":0.108},
+{"UIType":2, "Name":"CreateCreatureButtonText","X":-19.7, "Y":-3.4, "Z":-10, "Text":"New Creature"}
+]

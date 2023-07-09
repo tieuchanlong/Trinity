@@ -1,0 +1,3 @@
+xcopy /s "..\data\*.*" "..\bin\common\"
+
+exit

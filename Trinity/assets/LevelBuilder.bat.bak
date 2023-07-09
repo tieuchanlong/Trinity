@@ -1,0 +1,3 @@
+xcopy /s "..\data\levels\" "..\bin\common\"
+
+exit

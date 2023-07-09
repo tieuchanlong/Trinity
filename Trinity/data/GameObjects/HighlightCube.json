@@ -1,0 +1,6 @@
+[{"ObjectClassName":"Object"},
+{"NumComponents":3},
+{"ComponentClassName":"EngineCubeComponent"}, {"X":0.0,"Y":0.0,"Z":0.0,"SizeX":1.0,"SizeY":1.0,"SizeZ":1.0,"ColorR":1.0,"ColorG":0.714,"ColorB":0.757},
+{"ComponentClassName":"EngineRigidComponent"}, {"SpeedX":0.0,"SpeedY":0.0,"SpeedZ":0.0,"Mass":0.0},
+{"ComponentClassName":"EngineBoundingBoxComponent"}, {"IsFit":true}
+]

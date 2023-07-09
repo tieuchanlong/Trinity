@@ -1,0 +1,8 @@
+[{"ObjectClassName":"Base"},
+{"NumComponents":2},
+{"ComponentClassName":"EngineCubeComponent"},
+{"X":0.0,"Y":0.0,"Z":0.0,"SizeX":1.0,"SizeY":1.0,"SizeZ":1.0,"ColorR":0.0,"ColorG":1.0,"ColorB":0.0},
+{"ComponentClassName":"EngineRigidComponent"},
+{"SpeedX":0.0,"SpeedY":0.0,"SpeedZ":0.0,"Mass":0.0},
+{"BaseType":0}
+]

@@ -1,0 +1,6 @@
+[{"ObjectClassName":"GameLevel"},
+{"NumComponents":0},
+{"NumObjects":1},
+{"X":10.0,"Y":0.0,"Z":10.0,"ObjectSource":"D:\\Documents\\DirectX\\DirectX11\\Direct3DGameEngineBase\\Trinity\\Trinity\\bin\\common\\GameObjects\\Bases\\Forest\\ForestBase.json"},
+{"LevelGenerationChance": 40}
+]

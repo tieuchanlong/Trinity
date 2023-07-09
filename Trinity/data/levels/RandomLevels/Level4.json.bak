@@ -1,0 +1,10 @@
+[{"ObjectClassName":"GameLevel"},
+{"NumComponents":0},
+{"NumObjects":5},
+{"X":0.0,"Y":0.0,"Z":4.0,"ObjectSource":"D:\\Documents\\DirectX\\DirectX11\\Direct3DGameEngineBase\\Trinity\\Trinity\\bin\\common\\GameObjects\\Bases\\Forest\\ForestBase.json"},
+{"X":8.0,"Y":0.0,"Z":15.0,"ObjectSource":"D:\\Documents\\DirectX\\DirectX11\\Direct3DGameEngineBase\\Trinity\\Trinity\\bin\\common\\GameObjects\\Bases\\Sand\\SandBase.json"},
+{"X":2.0,"Y":0.0,"Z":0.0,"ObjectSource":"D:\\Documents\\DirectX\\DirectX11\\Direct3DGameEngineBase\\Trinity\\Trinity\\bin\\common\\GameObjects\\Bases\\Forest\\ForestBase.json"},
+{"X":15.0,"Y":0.0,"Z":0.0,"ObjectSource":"D:\\Documents\\DirectX\\DirectX11\\Direct3DGameEngineBase\\Trinity\\Trinity\\bin\\common\\GameObjects\\Bases\\Sand\\SandBase.json"},
+{"X":18.0,"Y":0.0,"Z":15.0,"ObjectSource":"D:\\Documents\\DirectX\\DirectX11\\Direct3DGameEngineBase\\Trinity\\Trinity\\bin\\common\\GameObjects\\Bases\\Forest\\ForestBase.json"},
+{"LevelGenerationChance": 35}
+]
