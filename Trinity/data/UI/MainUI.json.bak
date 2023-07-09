@@ -1,7 +1,0 @@
-[{"ObjectClassName":"EngineUIContainer"},
-{"NumComponents":0},
-{"NumUIs":3},
-{"UIType":1, "X":4.0, "Y":-0.3, "Z":-10, "SizeX":1.0, "SizeY":1.0, "ColorR":1.0, "ColorG":1.0, "ColorB":0.0},
-{"UIType":0, "X":4.0, "Y":0.0, "Z":-10, "SizeX":2.0, "SizeY":1.0, "ColorR":0.0, "ColorG":1.0, "ColorB":0.0},
-{"UIType":2, "X":4.0, "Y":0.0, "Z":-10, "Text":"Hello World"}
-]
