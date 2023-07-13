@@ -2,6 +2,7 @@
 #include "GameLevelManager.h"
 #include "GameAccessor.h"
 #include "BaseFactory.h"
+#include "EngineMouse.h"
 
 const char* g_sRandomLevelPaths[MAX_RANDOM_LEVELS] = {
 	"\\common\\levels\\RandomLevels\\Level1.json",
@@ -161,6 +162,11 @@ void GameLeveManager::OnCancelPressed(const Event& e)
 	{
 		if (GET_GUI_MANAGER()->GetUIByType(PAUSE_MENU))
 		{
+			if (!m_bMainLevel)
+			{
+				EngineMouse::GetInstance()->SetActive(false);
+			}
+
 			GET_GUI_MANAGER()->RemoveMenu(PAUSE_MENU);
 		}
 		else

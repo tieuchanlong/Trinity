@@ -45,35 +45,35 @@ int TitleMenu::OnConfirmOption()
 {
 	int iRet = EngineUIContainer::OnConfirmOption();
 
-	switch (m_iHighlightedUIIndex)
-	{
-	case 0:
-	{
-		// Main Game
-		SetupMainLevels();
-	}
-	break;
-	case 1:
-	{
-		// Level Editor
-		SetupMapEditorLevel();
-	}
-	break;
-	case 2:
-	{
-		// Object Editor
-		SetupObjectEditorLevel();
-	}
-	break;
-	case 3:
-	{
-		// Quit
-		QuitGame();
-	}
-	break;
-	default:
-		break;
-	}
+// 	switch (m_iHighlightedUIIndex)
+// 	{
+// 	case 0:
+// 	{
+// 		// Main Game
+// 		SetupMainLevels();
+// 	}
+// 	break;
+// 	case 1:
+// 	{
+// 		// Level Editor
+// 		SetupMapEditorLevel();
+// 	}
+// 	break;
+// 	case 2:
+// 	{
+// 		// Object Editor
+// 		SetupObjectEditorLevel();
+// 	}
+// 	break;
+// 	case 3:
+// 	{
+// 		// Quit
+// 		QuitGame();
+// 	}
+// 	break;
+// 	default:
+// 		break;
+// 	}
 
 	return iRet;
 }

@@ -21,6 +21,8 @@ public:
 
 	void OnCancelPressed(const Event& e) override;
 
+	bool IsMainLevel() { return m_bMainLevel; }
+
 private:
 	bool m_bMainLevel;
 	int m_iCurLevelX;

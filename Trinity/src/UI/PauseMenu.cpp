@@ -2,6 +2,7 @@
 #include "UI/PauseMenu.h"
 #include "UI/EngineButton.h"
 #include "GameAccessor.h"
+#include "EngineMouse.h"
 
 PauseMenu::PauseMenu() : EngineUIContainer()
 {
@@ -26,6 +27,11 @@ int PauseMenu::Initialize()
 	m_pInteractibleUIs->Add(dynamic_cast<EngineButton*>(GetUIByName("QuitButton")));
 	Application::GetInstance()->GetMainCamera()->SetLockedAll(true);
 
+	if (!GET_GAME_LEVEL_MANAGER()->IsMainLevel())
+	{
+		EngineMouse::GetInstance()->SetActive(true);
+	}
+
 	return iRet;
 }
 
@@ -40,6 +46,11 @@ int PauseMenu::Destroy()
 
 void PauseMenu::OnResumeGame()
 {
+	if (!GET_GAME_LEVEL_MANAGER()->IsMainLevel())
+	{
+		EngineMouse::GetInstance()->SetActive(false);
+	}
+
 	GET_GAME_LEVEL_MANAGER()->ResumeGame();
 }
 

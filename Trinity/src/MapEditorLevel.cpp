@@ -75,14 +75,14 @@ int MapEditorLevel::Destroy()
 
 	EngineMouse::GetInstance()->SetActive(true);
 
-	for (int i = 0; i < m_iNumLevelSources; i++)
-	{
-		if (m_pLevels[i])
-		{
-			m_pLevels[i]->Destroy();
-			SafeReleaseTemplate(m_pLevels[i]);
-		}
-	}
+// 	for (int i = 0; i < m_iNumLevelSources; i++)
+// 	{
+// 		if (m_pLevels[i])
+// 		{
+// 			m_pLevels[i]->Destroy();
+// 			SafeReleaseTemplate(m_pLevels[i]);
+// 		}
+// 	}
 
 	return iRet;
 }
