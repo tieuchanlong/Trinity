@@ -24,6 +24,13 @@ Known issues:
 4. Open project Trinity.sln in `Trinity` folder with Visual Studio 2019 and set it to configuration Debug-x64.
 5. Set Trinity as start up project and starts debugging. Any error can be skipped using F5, future patches will fix those errors.
 
+## Game instructions
+
+1. When entering any level, press right mouse button and use W, A, S, D keys to move the camera around
+2. In Map Editor and Object Editor levels, to change between menus, use tab button
+3. In Map Editor and Object Editor levels, the mouse control will be locked for menu, meaning you have to navigate menu items using arrow keys, the indicated menu item will be highlighted
+4. Press F5 in debug mode to skip any heap issue
+
 ## Video Demo
 
 You can also view a video of the game demo from [here](https://drive.google.com/file/d/1hTUAlbKLin6nEQldu-iRcRYgb9prxzKs/view?usp=sharing).
